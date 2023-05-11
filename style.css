@@ -1,0 +1,7 @@
+#grid-container{
+  display:flex;
+  flex-wrap: wrap;
+  width: 960px;
+  height: 960px;
+}
+
